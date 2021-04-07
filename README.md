@@ -21,9 +21,10 @@ Used input statements to retrieve customer weather preferences, then used those 
 ![image](https://user-images.githubusercontent.com/5934390/113918683-b87a6780-97b0-11eb-9041-463ad0688008.png)
 
 ## Creating a Travel Itinerary Map 
-Used the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.\
+Used the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.
 
 ![image](https://user-images.githubusercontent.com/5934390/113918905-f5465e80-97b0-11eb-825a-547120e6e717.png)
 
 Then, created a marker layer map with a pop-up marker for each city on the itinerary.
+
 ![image](https://user-images.githubusercontent.com/5934390/113918940-01322080-97b1-11eb-862a-238dc5af4708.png)
